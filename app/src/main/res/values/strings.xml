@@ -8,6 +8,7 @@
     <string name="apellido">Apellido</string>
     <string name="guardar">Guardar</string>
     <string name="limpiar">Limpiar</string>
+    <string name="error">Error este campo es obligatorio</string>
     <string-array name="opciones">
         <item>@string/opcion_crear</item>
         <item>@string/opcion_listar</item>

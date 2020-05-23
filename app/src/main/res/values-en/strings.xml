@@ -4,4 +4,10 @@
     <string name="opcion_crear">Create</string>
     <string name="opcion_listar">List</string>
     <string name="titulo">Create People</string>
+    <string name="nombre">Name</string>
+    <string name="apellido">Last Name</string>
+    <string name="guardar">Save</string>
+    <string name="limpiar">Clear</string>
+    <string name="error">Error this field is mandatory</string>
+    <string name="cedula">Identification Card</string>
 </resources>
