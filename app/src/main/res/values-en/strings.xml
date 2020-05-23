@@ -10,4 +10,6 @@
     <string name="limpiar">Clear</string>
     <string name="error">Error this field is mandatory</string>
     <string name="cedula">Identification Card</string>
+    <string name="numero">No.</string>
+    <string name="mensaje_guardado">Person successfully added</string>
 </resources>
