@@ -3,4 +3,5 @@
     <string name="app_name">People</string>
     <string name="opcion_crear">Create</string>
     <string name="opcion_listar">List</string>
+    <string name="titulo">Create People</string>
 </resources>
